@@ -2,7 +2,7 @@
 
 Sou desenvolvedora focada em Full Stack. Aqui você encontra projetos dos mais diversos temas, com ênfase em desenvolvimento com a linguagem JS.
 
-## Tecnologias e ferramentas  
+## 🌐🔧 Tecnologias e ferramentas  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" alt="JavaScript"/>
@@ -14,7 +14,7 @@ Sou desenvolvedora focada em Full Stack. Aqui você encontra projetos dos mais d
   <img src="https://github.com/user-attachments/assets/1f3d40e1-c66e-4f2f-b9be-d31292b854f3" width="50" height="50" alt="Figma"/>
 </p>
 
-## Estatísticas do GitHub
+## 👩🏻‍💻Estatísticas do GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marina982&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
