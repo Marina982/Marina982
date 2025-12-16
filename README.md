@@ -1,4 +1,4 @@
-# Olá, eu sou Marina 🦕🦖
+# Marina Goes 🦕🦖
 
 Sou desenvolvedora focada em Full Stack. Aqui você encontra projetos dos mais diversos temas, com ênfase em desenvolvimento com a linguagem JS.
 
