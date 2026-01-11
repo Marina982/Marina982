@@ -2,21 +2,69 @@
 
 Sou desenvolvedora focada em Full Stack. Aqui você encontra projetos dos mais diversos temas, com ênfase em desenvolvimento com a linguagem JS.
 
-## 🌐🔧 Tecnologias e ferramentas  
+---
+
+## 🌐🔧 Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" alt="JavaScript"/>
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+
+  <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50" alt="HTML5"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+
+  <!-- PostgreSQL -->
   <img src="https://github.com/user-attachments/assets/6a16b4bf-026e-478d-9b79-bcd2039659cf" width="50" height="50" alt="PostgreSQL"/>
-  <img src="https://github.com/user-attachments/assets/1f3d40e1-c66e-4f2f-b9be-d31292b854f3" width="50" height="50" alt="Figma"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+
+  <!-- TailwindCSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS"/>
+
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
 </p>
 
-## 👩🏻‍💻Estatísticas do GitHub
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marina982&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marina982&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+<!-- Stats principais -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marina982&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina982&layout=compact&theme=dracula"/>
+
+<!-- Streak -->
+<img height="180em" src="https://streak-stats.demolab.com?user=Marina982&theme=dracula&hide_border=false"/>
+
+</div>
+
+---
